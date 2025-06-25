@@ -1,6 +1,6 @@
 import numpy as np 
 
-# 1 crie uam matriz 3x3 com valores aleatorios, calcule sua transposta, determinante e inversa
+# 1 crie uma matriz 3x3 com valores aleatorios, calcule sua transposta, determinante e inversa
 
 mat1 = np.random.randint(11 ,size = (3,3)) #cria matriz de inteiros para melhor vizualização
 
