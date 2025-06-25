@@ -1,1 +1,1 @@
-# 2 multiplique duas matrizes compatives e verifique a comutatividade
+# 2 multiplique duas matrizes compativeis e verifique a comutatividade
