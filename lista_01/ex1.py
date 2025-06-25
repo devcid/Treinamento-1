@@ -7,7 +7,11 @@ mat1 = np.array([[5, 8, 4],
                 [6, 9, 5],
                 [4, 7, 2]])
 
-trnsmat1 = mat1.transpose()
-trnsmat1
+transp_mat1 = mat1.transpose()
+deter = mat1.d
+
+print(transp_mat1)
+
+
 # 2 multiplique duas matrizes compatives e verifique a comutatividade
 # 3 Represente vetores de entrada e saida em um sistema de mistura com duas correntes de entrada
